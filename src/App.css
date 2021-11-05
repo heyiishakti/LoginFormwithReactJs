@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+/* box-sizing: border-box; */
+
+form {
+  width: 320px;
+  padding: 50px;
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+  border-radius: 5px;
+  border-top: 5px solid oldlace;
+  border-bottom: 5px solid oldlace;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  color: white;
+}
+
+button{
+  margin-left: 43%;
+  border-radius: 5px;
+  border-style: none;
+  cursor: pointer;
+}
+
+input{
+  width: 100%;
+}
+
+/* .para{
+ width: 1725px;
+  padding: 0px;
+  background: linear-gradient(to right, #41295a, #2f0743);
+  margin-top: 100px;
+  border-radius: 10px;
+  text-align: center;
+
+} */
+
+#email{
+  border-radius: 3px;
+  border-style: none;
+}
+
+#pwd{
+  border-radius: 3px;
+  border-style: none;
+}
